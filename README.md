@@ -4,6 +4,10 @@
   <img src="https://lh6.googleusercontent.com/OWXLMxqPXmXuPaTgBwvOaqSe64oftmNXk1cpLW5mHfOtpX-Y0ZkgGE6jIyLvh5jFzTowJv8m3DBuhEE6E_V9=w1440-h742" width="720"/>
 </p>
 
+## Usage
+
+Note this is written with the MPI API for use on a cluster. The external parameters are with init_params function in main.cpp. Each computing node will work on a block of size nx x ny, where nx/(number of cores) = ny. ny must be even. 
+
 ## References
 1. https://quantumtheory.physik.unibas.ch/people/bruder/Semesterprojekte2007/p6/index.html
 
