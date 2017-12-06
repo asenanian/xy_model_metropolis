@@ -1,5 +1,9 @@
 # 2D XY model with Metropolis
 
+<p align="center">
+  <img src="https://lh6.googleusercontent.com/OWXLMxqPXmXuPaTgBwvOaqSe64oftmNXk1cpLW5mHfOtpX-Y0ZkgGE6jIyLvh5jFzTowJv8m3DBuhEE6E_V9=w1440-h742" width="720"/>
+</p>
+
 ## References
 1.https://quantumtheory.physik.unibas.ch/people/bruder/Semesterprojekte2007/p6/index.html
 
