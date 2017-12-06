@@ -6,7 +6,7 @@
 
 ## Usage
 
-Note this is written with the MPI API for use on a cluster. The external parameters are with init_params function in main.cpp. Each computing node will work on a block of size nx x ny, where nx/(number of cores) = ny. ny must be even. 
+Note this is written with the MPI API for use on a cluster. The external parameters are with init_params function in main.cpp. Each computing node will work on a block of size nx x ny, where ny = nx/(number of cores). ny must be even. 
 
 ## References
 1. https://quantumtheory.physik.unibas.ch/people/bruder/Semesterprojekte2007/p6/index.html
