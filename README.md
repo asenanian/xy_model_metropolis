@@ -1,7 +1,7 @@
 # 2D XY model with Metropolis
 
 <p align="center">
-  <img src="https://lh6.googleusercontent.com/OWXLMxqPXmXuPaTgBwvOaqSe64oftmNXk1cpLW5mHfOtpX-Y0ZkgGE6jIyLvh5jFzTowJv8m3DBuhEE6E_V9=w1440-h742" width="720"/>
+  <img src="http://pages.physics.cornell.edu/~as3656/magnets.png" width="720"/>
 </p>
 
 ## Usage
