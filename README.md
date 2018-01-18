@@ -2,9 +2,7 @@
 
 <p align="center">
 
-
-
-<a href="https://ibb.co/gS6dBm"><img src="https://preview.ibb.co/cTun46/magnets.png" alt="magnets" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>web hosting images free</a><br />
+<a href="https://ibb.co/gS6dBm"><img src="https://preview.ibb.co/cTun46/magnets.png" alt="magnets" border="0"></a><br />
 
 </p>
 
