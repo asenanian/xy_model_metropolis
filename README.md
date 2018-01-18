@@ -4,6 +4,8 @@
   <img src="http://pages.physics.cornell.edu/~as3656/magnets.png" width="720px"/>
 </p>
 
+<a href="https://ibb.co/gS6dBm"><img src="https://preview.ibb.co/cTun46/magnets.png" alt="magnets" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>web hosting images free</a><br />
+
 ## Usage
 
 Note this is written with the MPI API for use on a cluster. The external parameters are with init_params function in main.cpp. Each computing node will work on a block of size nx x ny, where ny = nx/(number of cores). ny must be even. 
